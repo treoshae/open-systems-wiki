@@ -26,9 +26,9 @@ As a part of our ongoing efforts to foster an open, collaborative, and inclusive
 
 ### Broad Discussions
 
-Broad discussions related to general concepts, methodologies, or technologies that might apply to multiple systems within Open Systems should take place here, in the main [open-systems-wiki](https://github.com/open-systems-wiki/open-systems-wiki) repository. This is a place for overarching topics that are not confined to a single system but span across many, or deal with the overall vision and goals of our open systems project.
+Broad discussions related to general concepts, methodologies, or technologies that might apply to multiple systems within Open Systems should take place here, in the main [open-systems-wiki](https://github.com/treoshae/open-systems-wiki) repository. This is a place for overarching topics that are not confined to a single system but span across many, or deal with the overall vision and goals of our open systems project.
 
-To start or participate in a discussion, visit the ["Discussions"](https://github.com/open-systems-wiki/open-systems-wiki/discussions) tab and jump right in! 
+To start or participate in a discussion, visit the ["Discussions"](https://github.com/treoshae/open-systems-wiki/discussions) tab and jump right in! 
 
 ### System-Specific Discussions
 
